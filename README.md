@@ -1,10 +1,10 @@
-# SE3355-MidtermProject
+# E-Commerce Website
 
 git add .
 git commit -m "İlk yükleme"
 git push -u origin main
 
-# SE 3355 - Midterm Project
+# E-Commerce Website
 
 This is a full responsive e-commerce website.
 
@@ -25,3 +25,4 @@ Features:
 --Page is all responsive ->mobile, tablet and desktop
 
 # Live Demo
+https://yagmursabirli.github.io/se3355-midterm-project/
