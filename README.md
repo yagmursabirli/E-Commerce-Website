@@ -25,4 +25,3 @@ Features:
 --Page is all responsive ->mobile, tablet and desktop
 
 # Live Demo
-https://yagmursabirli.github.io/se3355-midterm-project/
