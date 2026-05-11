@@ -1,8 +1,5 @@
 # E-Commerce Website
-
-git add .
-git commit -m "İlk yükleme"
-git push -u origin main
+A fully responsive e-commerce website built with HTML, CSS, and JavaScript. It includes a sticky responsive navbar, campaign sections, dynamic product deals using Mock API, and personalized product cards with ratings, favorites, and prices.
 
 # E-Commerce Website
 
